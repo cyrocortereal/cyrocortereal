@@ -27,6 +27,7 @@ Welcome to my GitHub profile! Here, you can find some of the projects I'm workin
 ## ⚡ Fun facts: ...
 - 🎉 I started my own company at the age of 23!
 - ♟️ I am a chess master, having played in numerous international tournaments and achieving 4th place in an international tournament in Dublin, Ireland!
+- 🇮🇹 🇧🇷 I'm Brazilian-Italian Citizen
 
 ---
 
