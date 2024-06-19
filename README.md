@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Cyro Cortereal (@cyrocortereal)
+# 👋 Hi, I’m Cyro Corte Real (@cyrocortereal)
 
 Welcome to my GitHub profile! Here, you can find some of the projects I'm working on and my professional journey.
 
