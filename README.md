@@ -27,7 +27,7 @@ Welcome to my GitHub profile! Here, you can find some of the projects I'm workin
 ## ⚡ Fun facts: ...
 - 🎉 I started my own company at the age of 23!
 - ♟️ I am a chess master, having played in numerous international tournaments and achieving 4th place in an international tournament in Dublin, Ireland!
-- <img src="https://upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/1200px-Flag_of_Italy.svg.png" alt="Italy" width="30"/> <img src="https://upload.wikimedia.org/wikipedia/en/0/05/Flag_of_Brazil.svg" alt="Brazil" width="30"/> I'm a Brazilian-Italian Citizen
+- <img src="https://upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/1200px-Flag_of_Italy.svg.png" alt="Italy" width="50"/> <img src="https://upload.wikimedia.org/wikipedia/en/0/05/Flag_of_Brazil.svg" alt="Brazil" width="50"/> I'm Brazilian-Italian Citizen
 
 
 ---
