@@ -3,7 +3,7 @@
 Welcome to my GitHub profile! Here, you can find some of the projects I'm working on and my professional journey.
 
 ## 👀 I’m interested in ...
-- 🔌 Electronics and Computer Engineering
+- 🔌 IT/Electronic Technician and Computer Engineering
 - 💼 Business Management and Entrepreneurship
 - 🛠️ IT and Technical Support
 - 📦 Logistics and Quality Management
